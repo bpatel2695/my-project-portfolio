@@ -18,6 +18,7 @@ header{
 .title-content{
     text-align: center;
     font-family: 'Courier New', Courier, monospace
+
 }
 .resume{
    text-align: center;
@@ -26,8 +27,11 @@ header{
 button{
     padding: 10px;
     background-color: rgb(244, 149, 207);
+
 }
-img{
-    opacity: 1;
-    size: 20px;
-}
+
+.bottom-container{
+    background-color: #DFA8EA;
+      text-align: center;
+    padding: 30px 0;
+    }
