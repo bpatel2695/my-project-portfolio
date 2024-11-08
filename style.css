@@ -1,6 +1,33 @@
 body{
     background-color: lavender;
-}
+    }
 header{
-    background-color: cadetblue;
+    background-color: #DFA8EA;
+    margin: 0px;
+   
+    display: flex;
+    justify-content: space-between;
+}
+.header-content{
+        padding: 30px;
+}
+.title{
+    text-align: center;
+
+}
+.title-content{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+.resume{
+   text-align: center;
+    
+}
+button{
+    padding: 10px;
+    background-color: rgb(244, 149, 207);
+}
+img{
+    opacity: 1;
+    size: 20px;
 }
